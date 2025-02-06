@@ -82,22 +82,22 @@ mavenPublishing {
         url = "https://github.com/kotlin/multiplatform-library-template/"
         licenses {
             license {
-                name = "XXX"
-                url = "YYY"
-                distribution = "ZZZ"
+                name = "MIT"
+                url = "https://opensource.org/licenses/MIT"
+                distribution = "repo"
             }
         }
         developers {
             developer {
-                id = "XXX"
-                name = "YYY"
-                url = "ZZZ"
+                id = "GreatTusk"
+                name = "GreatTusk"
+                url = "https://github.com/GreatTusk"
             }
         }
         scm {
-            url = "XXX"
-            connection = "YYY"
-            developerConnection = "ZZZ"
+            url = "https://github.com/GreatTusk/wanakana-kmp/"
+            connection = "scm:git:git://github.com/GreatTusk/wanakana-kmp.git"
+            developerConnection = "scm:git:ssh://git@github.com/GreatTusk/wanakana-kmp.git"
         }
     }
 }
