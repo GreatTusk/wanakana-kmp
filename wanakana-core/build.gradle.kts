@@ -79,7 +79,7 @@ mavenPublishing {
         name = "Wanakana for KMP"
         description = "Fork of https://github.com/esnaultdev/wanakana-kt with minimal changes to make it KMP compatible"
         inceptionYear = "2025"
-        url = "https://github.com/kotlin/multiplatform-library-template/"
+        url = "https://github.com/GreatTusk/wanakana-kmp/"
         licenses {
             license {
                 name = "MIT"
